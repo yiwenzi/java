@@ -1,0 +1,217 @@
+2018-01-25 14:57:29,967   INFO  [main] JDBCLOADER: Read 118431 rows from file and successfully inserted 118431 rows (final)
+2018-01-25 14:57:29,971   INFO  [main] JDBCLOADER: Elapsed time: 30.084 seconds
+2018-01-25 14:57:29,971   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAACONTRACT_insert_invalidrows.csv
+2018-01-25 14:57:29,971   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAACONTRACT_insert_log.log
+2018-01-25 14:57:29,971   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAACONTRACT_insert_report.log
+2018-01-25 14:57:30,342   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118432. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,344   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118433. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,344   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118434. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,344   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118435. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,344   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118436. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,412   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118438. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,413   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118439. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,413   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118440. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,413   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118441. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '0         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,414   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118442. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '0         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,414   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118443. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,414   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118444. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,415   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118445. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,415   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118446. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,416   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118447. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,416   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118448. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,417   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118449. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,418   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118450. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,418   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118451. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,418   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118452. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,419   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118453. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,419   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118454. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,419   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118455. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,419   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118456. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,420   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118457. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,420   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118458. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,421   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118459. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,421   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118460. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,422   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118461. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,422   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118462. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,423   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118463. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,423   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118464. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,423   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118465. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,424   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118466. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,425   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118467. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,425   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118468. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,426   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118469. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,426   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118470. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,426   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118471. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,427   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118472. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,427   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118473. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,430   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118474. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,430   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118475. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,430   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118476. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,499   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118478. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,500   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118479. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,500   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118480. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,500   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118481. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,501   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118482. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,501   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118483. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,564   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118485. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,564   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118486. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,565   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118487. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,565   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118488. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,566   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118489. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,566   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118490. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,632   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118492. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,633   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118493. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,634   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118494. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,634   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118495. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,634   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118496. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,634   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118497. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,635   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118498. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,636   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118499. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,636   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118500. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,636   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118501. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,637   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118502. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,637   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118503. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,638   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118504. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,638   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118505. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,639   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118506. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,639   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118507. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,644   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118508. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,645   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118509. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,645   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118510. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,645   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118511. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,645   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118512. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,645   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118513. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,645   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118514. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,645   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118515. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,646   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118516. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,646   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118517. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,647   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118518. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,647   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118519. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,649   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118520. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,649   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118521. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,649   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118522. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:30,649   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118523. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,798   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118543. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,798   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118544. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,799   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118545. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,799   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118546. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,860   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118548. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,860   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118549. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,861   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118550. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,861   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118551. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,861   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118552. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,922   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118554. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,923   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118555. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,923   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118556. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 14:57:31,923   ERROR [Thread-6] JDBCLOADER: Invalid input on line 118558. VOLTDB ERROR: SQL ERROR
+  The size 10 of the value '3         ' exceeds the size of the VARCHAR(2) column.
+2018-01-25 15:15:03,049   INFO  [main] JDBCLOADER: Read 0 rows from file and successfully inserted 0 rows (final)
+2018-01-25 15:15:03,050   INFO  [main] JDBCLOADER: Elapsed time: 9.473 seconds
+2018-01-25 15:15:03,051   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_insert_invalidrows.csv
+2018-01-25 15:15:03,051   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_insert_log.log
+2018-01-25 15:15:03,051   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_insert_report.log
+2018-01-25 15:16:45,686   INFO  [main] JDBCLOADER: Read 282374 rows from file and successfully inserted 282374 rows (final)
+2018-01-25 15:16:45,686   INFO  [main] JDBCLOADER: Elapsed time: 55.885 seconds
+2018-01-25 15:16:45,687   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_insert_invalidrows.csv
+2018-01-25 15:16:45,687   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_insert_log.log
+2018-01-25 15:16:45,687   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_insert_report.log

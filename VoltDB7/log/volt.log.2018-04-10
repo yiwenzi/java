@@ -1,0 +1,15 @@
+2018-04-10 13:41:38,009   INFO  [main] JDBCLOADER: Read 349509 rows from file and successfully inserted 349509 rows (final)
+2018-04-10 13:41:38,011   INFO  [main] JDBCLOADER: Elapsed time: 108.007 seconds
+2018-04-10 13:41:38,011   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAACONTRACTHIS_insert_invalidrows.csv
+2018-04-10 13:41:38,011   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAACONTRACTHIS_insert_log.log
+2018-04-10 13:41:38,011   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAACONTRACTHIS_insert_report.log
+2018-04-10 13:48:44,138   INFO  [main] JDBCLOADER: Read 167848 rows from file and successfully inserted 167848 rows (final)
+2018-04-10 13:48:44,138   INFO  [main] JDBCLOADER: Elapsed time: 426.126 seconds
+2018-04-10 13:48:44,138   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_PRPDPLANCLAUSEKIND_insert_invalidrows.csv
+2018-04-10 13:48:44,138   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_PRPDPLANCLAUSEKIND_insert_log.log
+2018-04-10 13:48:44,139   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_PRPDPLANCLAUSEKIND_insert_report.log
+2018-04-10 14:40:37,432   INFO  [main] JDBCLOADER: Read 349509 rows from file and successfully inserted 349509 rows (final)
+2018-04-10 14:40:37,432   INFO  [main] JDBCLOADER: Elapsed time: 208.184 seconds
+2018-04-10 14:40:37,432   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAACONTRACTHIS_insert_invalidrows.csv
+2018-04-10 14:40:37,432   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAACONTRACTHIS_insert_log.log
+2018-04-10 14:40:37,432   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAACONTRACTHIS_insert_report.log

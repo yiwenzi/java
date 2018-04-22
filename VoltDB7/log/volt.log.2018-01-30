@@ -1,0 +1,36 @@
+2018-01-30 10:48:18,180   ERROR [JDBCSourceReader] JDBCLOADER: database query initialization failed
+java.sql.SQLException: No suitable driver found for jdbc:informix-sqli://10.10.0.120:8001/dmsa:informixserver=data_dic_ids;NEWLOCALE=zh_CN,zh_CN;NEWCODESET=GBK,8859-1,819,Big5;IFX_USE_STRENC=true;
+	at java.sql.DriverManager.getConnection(DriverManager.java:689)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at org.voltdb.utils.JDBCStatementReader.susceptibleRun(JDBCStatementReader.java:97)
+	at org.voltdb.utils.SusceptibleRunnable.run(SusceptibleRunnable.java:27)
+	at java.lang.Thread.run(Thread.java:745)
+2018-01-30 10:48:26,958   INFO  [main] JDBCLOADER: Read 0 rows from file and successfully inserted 0 rows (final)
+2018-01-30 10:48:26,959   INFO  [main] JDBCLOADER: Elapsed time: 10.419 seconds
+2018-01-30 10:48:26,960   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_PRPDCOMPANY2_insert_invalidrows.csv
+2018-01-30 10:48:26,960   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_PRPDCOMPANY2_insert_log.log
+2018-01-30 10:48:26,960   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_PRPDCOMPANY2_insert_report.log
+2018-01-30 10:49:05,234   ERROR [JDBCSourceReader] JDBCLOADER: database query initialization failed
+java.sql.SQLException: No suitable driver found for jdbc:informix-sqli://10.10.0.120:8001/dmsa:informixserver=data_dic_ids;NEWLOCALE=zh_CN,zh_CN;NEWCODESET=GBK,8859-1,819,Big5;IFX_USE_STRENC=true;
+	at java.sql.DriverManager.getConnection(DriverManager.java:689)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at org.voltdb.utils.JDBCStatementReader.susceptibleRun(JDBCStatementReader.java:97)
+	at org.voltdb.utils.SusceptibleRunnable.run(SusceptibleRunnable.java:27)
+	at java.lang.Thread.run(Thread.java:745)
+2018-01-30 10:49:14,088   INFO  [main] JDBCLOADER: Read 0 rows from file and successfully inserted 0 rows (final)
+2018-01-30 10:49:14,089   INFO  [main] JDBCLOADER: Elapsed time: 9.761 seconds
+2018-01-30 10:49:14,089   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_PRPDCOMPANY2_insert_invalidrows.csv
+2018-01-30 10:49:14,089   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_PRPDCOMPANY2_insert_log.log
+2018-01-30 10:49:14,089   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_PRPDCOMPANY2_insert_report.log
+2018-01-30 10:50:08,378   ERROR [JDBCSourceReader] JDBCLOADER: database query initialization failed
+java.sql.SQLException: No suitable driver found for jdbc:informix-sqli://10.10.0.120:8001/dmsa:informixserver=data_dic_ids;NEWLOCALE=zh_CN,zh_CN;NEWCODESET=GBK,8859-1,819,Big5;IFX_USE_STRENC=true;
+	at java.sql.DriverManager.getConnection(DriverManager.java:689)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at org.voltdb.utils.JDBCStatementReader.susceptibleRun(JDBCStatementReader.java:97)
+	at org.voltdb.utils.SusceptibleRunnable.run(SusceptibleRunnable.java:27)
+	at java.lang.Thread.run(Thread.java:745)
+2018-01-30 10:50:17,268   INFO  [main] JDBCLOADER: Read 0 rows from file and successfully inserted 0 rows (final)
+2018-01-30 10:50:17,268   INFO  [main] JDBCLOADER: Elapsed time: 9.484 seconds
+2018-01-30 10:50:17,268   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_PRPDCOMPANY2_insert_invalidrows.csv
+2018-01-30 10:50:17,269   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_PRPDCOMPANY2_insert_log.log
+2018-01-30 10:50:17,269   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_PRPDCOMPANY2_insert_report.log

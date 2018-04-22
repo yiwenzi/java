@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="canal.client-1.0.25-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../source/canal/canal.client-1.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/canal/canal.common-1.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/canal/canal.protocol-1.0.25.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../source/canal/canal.client-1.0.25-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/canal/canal.common-1.0.25-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/canal/canal.protocol-1.0.25-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../source/canal/canal.client-1.0.25-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/canal/canal.common-1.0.25-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/canal/canal.protocol-1.0.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

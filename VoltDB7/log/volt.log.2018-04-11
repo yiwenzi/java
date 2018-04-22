@@ -1,0 +1,50 @@
+2018-04-11 09:45:41,228   INFO  [main] JDBCLOADER: Read 349509 rows from file and successfully inserted 349509 rows (final)
+2018-04-11 09:45:41,229   INFO  [main] JDBCLOADER: Elapsed time: 129.555 seconds
+2018-04-11 09:45:41,230   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAACONTRACTHIS_insert_invalidrows.csv
+2018-04-11 09:45:41,230   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAACONTRACTHIS_insert_log.log
+2018-04-11 09:45:41,230   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAACONTRACTHIS_insert_report.log
+2018-04-11 17:25:38,905   ERROR [Volt Client Network - 1] NETWORK: VoltPort died due to an unexpected exception
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.voltcore.network.NIOReadStream.read(NIOReadStream.java:201)
+	at org.voltcore.network.VoltPort.fillReadStream(VoltPort.java:205)
+	at org.voltcore.network.VoltPort.run(VoltPort.java:171)
+	at org.voltcore.network.VoltNetwork.callPort(VoltNetwork.java:421)
+	at org.voltcore.network.VoltNetwork.optimizedInvokeCallbacks(VoltNetwork.java:487)
+	at org.voltcore.network.VoltNetwork.run(VoltNetwork.java:329)
+	at java.lang.Thread.run(Thread.java:745)
+2018-04-11 17:25:38,933   ERROR [Thread-3] JDBCLOADER: Invalid input on line 2020. Connection to database host (/10.10.1.1:11212) was lost before a response was received
+2018-04-11 17:36:54,741   ERROR [Volt Client Network - 1] NETWORK: VoltPort died due to an unexpected exception
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.voltcore.network.NIOReadStream.read(NIOReadStream.java:201)
+	at org.voltcore.network.VoltPort.fillReadStream(VoltPort.java:205)
+	at org.voltcore.network.VoltPort.run(VoltPort.java:171)
+	at org.voltcore.network.VoltNetwork.callPort(VoltNetwork.java:421)
+	at org.voltcore.network.VoltNetwork.optimizedInvokeCallbacks(VoltNetwork.java:487)
+	at org.voltcore.network.VoltNetwork.run(VoltNetwork.java:329)
+	at java.lang.Thread.run(Thread.java:745)
+2018-04-11 17:36:54,748   ERROR [Thread-3] JDBCLOADER: Invalid input on line 1007. Connection to database host (/10.10.1.1:11212) was lost before a response was received
+2018-04-11 17:47:24,832   ERROR [Volt Client Network - 1] NETWORK: VoltPort died due to an unexpected exception
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.voltcore.network.NIOReadStream.read(NIOReadStream.java:201)
+	at org.voltcore.network.VoltPort.fillReadStream(VoltPort.java:205)
+	at org.voltcore.network.VoltPort.run(VoltPort.java:171)
+	at org.voltcore.network.VoltNetwork.callPort(VoltNetwork.java:421)
+	at org.voltcore.network.VoltNetwork.optimizedInvokeCallbacks(VoltNetwork.java:487)
+	at org.voltcore.network.VoltNetwork.run(VoltNetwork.java:329)
+	at java.lang.Thread.run(Thread.java:745)
+2018-04-11 17:47:24,839   ERROR [Thread-3] JDBCLOADER: Invalid input on line 1012. Connection to database host (/10.10.1.1:11212) was lost before a response was received

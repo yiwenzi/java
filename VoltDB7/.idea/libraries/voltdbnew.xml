@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="voltdbnew">
+    <CLASSES>
+      <root url="jar://D:/sourceCode/voltdbnew/infomixjdbc.jar!/" />
+      <root url="jar://D:/sourceCode/voltdbnew/voltdb-8.1.jar!/" />
+      <root url="jar://D:/sourceCode/voltdbnew/voltdbclient-8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/sourceCode/voltdbnew/voltdb-8.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>

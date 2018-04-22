@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CanalForVoltdb/CanalForVoltdb.iml" filepath="$PROJECT_DIR$/CanalForVoltdb/CanalForVoltdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcurrencyDemo/ConcurrencyDemo.iml" filepath="$PROJECT_DIR$/ConcurrencyDemo/ConcurrencyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignModel/DesignModel.iml" filepath="$PROJECT_DIR$/DesignModel/DesignModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8Use/Java8Use.iml" filepath="$PROJECT_DIR$/Java8Use/Java8Use.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VoltDBSecond/VoltDBSecond.iml" filepath="$PROJECT_DIR$/VoltDBSecond/VoltDBSecond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VoltDBThird/VoltDBThird.iml" filepath="$PROJECT_DIR$/VoltDBThird/VoltDBThird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Xstream1.4.7/Xstream1.4.7.iml" filepath="$PROJECT_DIR$/Xstream1.4.7/Xstream1.4.7.iml" />
+    </modules>
+  </component>
+</project>

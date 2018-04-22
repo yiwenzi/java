@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="voltdb8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/avro-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/commons-codec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/commons-lang3-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/felix.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/httpasyncclient-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/httpclient-4.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/httpcore-4.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/httpcore-nio-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/jetty-continuation-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/jetty-http-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/jetty-io-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/jetty-server-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/jetty-util-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/jline-2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/jsch-0.1.51.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/kafka-clients-0.8.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/kafka_2.11-0.8.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/lz4-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/metrics-core-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/owner-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/owner-java8-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/protobuf-java-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/scala-library-2.11.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/scala-parser-combinators_2.11-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/scala-xml_2.11-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/servlet-api-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/slf4j-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/slf4j-nop-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/snappy-java-1.1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/snmp4j-2.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/super-csv-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/tomcat-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/tomcat-juli.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/vmetrics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/voltdb-7.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/voltdbclient-7.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/voltdb-7.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/voltdb8/voltdbclient-7.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

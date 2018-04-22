@@ -1,0 +1,14 @@
+16集群
+export VOLTDB_HEAPMAX="用java做爬虫怎么样!8192"
+export JAVA_HOME=/super/java-1.8.0-openjdk-1.8.0.45-28.b13.el6_6.x86_64
+export PATH="$PATH:/super/voltdb/voltdb-ent-7.5.1/bin:$JAVA_HOME/bin"
+
+export VOLTDB_HEAPMAX="4096"
+export JAVA_HOME=/super/java-1.8.0-openjdk-1.8.0.45-28.b13.el6_6.x86_64
+export PATH="$PATH:/super/voltdb/voltdb-ent-7.5.1/bin:$JAVA_HOME/bin"
+
+17导数
+export CLASSPATH="$CLASSPATH:/super/joker/infomixjdbc.jar"
+cd /super/voltdb/voltdb-ent-7.5.1/bin
+
+./jdbcloader sadfeerange --jdbcdriver=com.informix.jdbc.IfxDriver --jdbcurl=jdbc:informix-sqli://10.10.0.120:8001/salesdbtb:informixserver=data_dic_ids --jdbctable=sadfeerange --jdbcuser=xsgl --jdbcpassword=xsgl --port=

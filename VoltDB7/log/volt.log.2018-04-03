@@ -1,0 +1,15 @@
+2018-04-03 14:27:32,060   INFO  [main] JDBCLOADER: Read 286381 rows from file and successfully inserted 286381 rows (final)
+2018-04-03 14:27:32,062   INFO  [main] JDBCLOADER: Elapsed time: 271.937 seconds
+2018-04-03 14:27:32,062   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_insert_invalidrows.csv
+2018-04-03 14:27:32,062   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_insert_log.log
+2018-04-03 14:27:32,062   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_insert_report.log
+2018-04-03 14:33:47,987   INFO  [main] JDBCLOADER: Read 286381 rows from file and successfully inserted 286381 rows (final)
+2018-04-03 14:33:47,988   INFO  [main] JDBCLOADER: Elapsed time: 144.391 seconds
+2018-04-03 14:33:47,988   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_AGENTCODE_insert_invalidrows.csv
+2018-04-03 14:33:47,988   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_AGENTCODE_insert_log.log
+2018-04-03 14:33:47,988   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_AGENTCODE_insert_report.log
+2018-04-03 14:35:02,982   INFO  [main] JDBCLOADER: Read 286381 rows from file and successfully inserted 286381 rows (final)
+2018-04-03 14:35:02,982   INFO  [main] JDBCLOADER: Elapsed time: 74.994 seconds
+2018-04-03 14:35:02,982   INFO  [main] JDBCLOADER: Invalid row file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_COMCODE_insert_invalidrows.csv
+2018-04-03 14:35:02,982   INFO  [main] JDBCLOADER: Log file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_COMCODE_insert_log.log
+2018-04-03 14:35:02,982   INFO  [main] JDBCLOADER: Report file: D:\workspace\jetbrains\java\VoltDB7/jdbcloader_SAAAGENTCONTRACT_COMCODE_insert_report.log
